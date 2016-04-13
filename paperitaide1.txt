@@ -1,0 +1,6 @@
+Pääsivu > Paperitaide > Taulut|Taulut|Asia ja kaikkea muuta|Kuva
+33|33|33|33||||||
+Pääsivu > Paperitaide > Taulut > Taulu1|Taulu 1|Tyhjää täynnä|kohta2|kohta3|kohta4|poika1|poika2
+11|11||||||||
+22|22||||||||
+Tähän polku|Uusi taulu - tyhjä|asia1||||kirkko11|||

@@ -1,0 +1,6 @@
+Pääsivu > Kirkkotaide >|Kirkkotaide|Lorem ipsum dolor sit amet. |kirkko41
+Pöösivu > Kirkkotaide > Rovaniemi|Rovaniemen kirkko|Kuva 1:stö tulee sivun ensimmöinen kuva.|dsds|||kirkko41|||
+Pöösivu > Kirkkotaide > Tuomiokirkko|Tuomiokirkon krusifiksi|Asia1|Asiaa2|A3|A4|kirkko41|kirkko11|kirkko22|kirkko12
+Pääsivu > Kirkkotaide > HärmäläX|1HärmäläX kappeli|HärmäläX härät||||kirkko21|kirkko22||
+Pääsivu > Kirkkotaide > Aleksanteri|Aleksanterin krusifiksi|Valmistusvuosi: 1983|Kohta 2|kohta3|kohta4|kirkko21|kirkko22||
+|||||||||

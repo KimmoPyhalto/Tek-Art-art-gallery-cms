@@ -1,0 +1,12 @@
+11|index.php|P&auml;&auml;sivu
+12|kirkkotaide1|ktmenu1|Kirkkotaide
+13|metallitaide|Metallitaide
+21|metallitaide1|mtmenu1|Reliefit
+21|metallitaide2|mtmenu2|Veistokset
+21|metallitaide3|mtmenu3|Korut
+21|metallitaide4|mtmenu4|Koriste- esineet
+13|paperitaide|Paperitaide
+21|paperitaide1|ptmenu1|Taulut
+14|paperitaide2|ptmenu2|8|Taidekortit
+14|paperitaide3|ptmenu3|4|Painetut kortit ja julisteet
+15|cv1|Curriculum Vitae
